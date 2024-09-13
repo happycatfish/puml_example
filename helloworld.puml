@@ -1,4 +1,7 @@
 @startuml
+skinparam backgroundColor #EEEBDC
+skinparam handwritten true
+
 Bob -> Alice: Hello
 Bob <- Alice: Hello
 @enduml
